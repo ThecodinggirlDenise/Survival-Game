@@ -29,7 +29,7 @@ With the advancement of Game industry,Games got their own communities which you 
  ### Reddit (r/playark): A subreddit dedicated to ARK, featuring discussions, mod showcases, server advertisements, and community support.
  #  Don't Starve
 ### Klei Entertainment Forums: The official forums for Don't Starve, where players share mods, strategies, and fan creations.
-Steam Workshop: A significant source of mods for Don't Starve, including new characters, items, and gameplay tweaks.
+### Steam Workshop: A significant source of mods for Don't Starve, including new characters, items, and gameplay tweaks.
 ### Reddit (r/dontstarve): A community subreddit where players discuss the game, share mods, and offer survival tips.
 
 # HOW TO DOWNLOAD
