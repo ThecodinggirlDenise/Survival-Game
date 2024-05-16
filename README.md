@@ -49,7 +49,6 @@ bash
 Ensure you have Unity installed. It's best to use the same version of Unity that the project was created with. This information is often found in the README file of the repository or in the ProjectSettings folder.
 Download and install Unity Hub from the Unity website.
 
-## Open the Project in Unity:
 
 ## Install Git:
 
