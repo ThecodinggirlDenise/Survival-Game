@@ -1,7 +1,7 @@
 ## Survival-Game-Unity-Professional Software Engineering Tools Course
 ## Key Elements of the Survival Games
 
-###            Resource Gathering:When players collect resources such as food, water, materials, and tools to sustain themselves and progress in the game.
+###### Resource Gathering:When players collect resources such as food, water, materials, and tools to sustain themselves and progress in the game.
 
 ###            Crafting:Crafting systems are central to survival games, allowing players to create weapons, tools, shelter, and other essential items 
 
