@@ -38,7 +38,7 @@ With the advancement of Game industry,Games got their own communities which you 
 If you haven't already, install Git. You can download it from Git's official website.
 ##  Clone the Repository:
 
-# Open a terminal (Command Prompt, PowerShell, or Git Bash).
+### Open a terminal (Command Prompt, PowerShell, or Git Bash).
 Navigate to the directory where you want to clone the repository.
 Use the git clone command followed by the repository URL. For example:
 bash
