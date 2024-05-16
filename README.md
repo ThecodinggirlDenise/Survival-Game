@@ -3,13 +3,13 @@
 
 ###### Resource Gathering:When players collect resources such as food, water, materials, and tools to sustain themselves and progress in the game.
 
-###            Crafting:Crafting systems are central to survival games, allowing players to create weapons, tools, shelter, and other essential items 
+###### Crafting:Crafting systems are central to survival games, allowing players to create weapons, tools, shelter, and other essential items 
 
-###            Health and Stamina Management: Players need to monitor their character's health, hunger, thirst, and sometimes other stats like stamina or temperature.
+###### Health and Stamina Management: Players need to monitor their character's health, hunger, thirst, and sometimes other stats like stamina or temperature.
 
-###            Building and Shelter:Many survival games include building mechanics, enabling players to construct shelters and bases to protect themselves from environmental hazards, enemies, and wildlife.
+###### Building and Shelter:Many survival games include building mechanics, enabling players to construct shelters and bases to protect themselves from environmental hazards, enemies, and wildlife.
 
-###            Exploration:Survival games often feature open-world environments where exploration is crucial.
+###### Exploration:Survival games often feature open-world environments where exploration is crucial.
 
 
  #     Evolution and Impact
