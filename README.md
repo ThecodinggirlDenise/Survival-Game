@@ -15,19 +15,19 @@
  #     Evolution and Impact
 With advancing technology over the years the elements in the survival games has improved a lot.Elements such as Combat Systems and Movement Mechnics changed a lot over the years this improvement in this elements caused Incorporation of deeper narrative elements and quests, often including lore-rich environments and scripted events that provide context and motivation for survival.
 #     Community and Mods
-
 With the advancement of Game industry,Games got their own communities which you could get help with anything.For example:
-## Minecraft
+# Minecraft
+
  ### Planet Minecraft: A major community site where players can share and download mods, maps, skins, and texture packs. It also features forums and tutorials.
  ###  Minecraft Forums: One of the oldest and most comprehensive community hubs for Minecraft, offering discussion forums, mod releases, and technical support.
  ### CurseForge: A popular platform for downloading Minecraft mods, modpacks, and plugins. It offers a vast collection of user-generated content.
  ###  Reddit (r/Minecraft): A large and active subreddit where players share their creations, ask for help, discuss updates, and participate in community events.
 
- ###  ARK: Survival Evolved
+ #  ARK: Survival Evolved
  ### Steam Workshop: The primary platform for ARK mods, where players can find a variety of mods including new creatures, items, and gameplay mechanics.
  ### SurviveTheArk: The official ARK community site with forums for discussion, sharing mods, and community events.
  ### Reddit (r/playark): A subreddit dedicated to ARK, featuring discussions, mod showcases, server advertisements, and community support.
-Don't Starve
+ #  Don't Starve
 ### Klei Entertainment Forums: The official forums for Don't Starve, where players share mods, strategies, and fan creations.
 Steam Workshop: A significant source of mods for Don't Starve, including new characters, items, and gameplay tweaks.
 ### Reddit (r/dontstarve): A community subreddit where players discuss the game, share mods, and offer survival tips.
