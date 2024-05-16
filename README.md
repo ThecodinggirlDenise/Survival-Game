@@ -33,61 +33,35 @@ With the advancement of Game industry,Games got their own communities which you 
 ### Reddit (r/dontstarve): A community subreddit where players discuss the game, share mods, and offer survival tips.
 
 # HOW TO DOWNLOAD
+
 ## Install Git:
 
 If you haven't already, install Git. You can download it from Git's official website.
-##  Clone the Repository:
 
 ### Open a terminal (Command Prompt, PowerShell, or Git Bash).
 Navigate to the directory where you want to clone the repository.
 Use the git clone command followed by the repository URL. For example:
 bash
-
 # git clone[ https://github.com/username/repository.git](https://github.com/ThecodinggirlDenise/Survival-Game-Unity)
 ##  Install Unity:
 
 Ensure you have Unity installed. It's best to use the same version of Unity that the project was created with. This information is often found in the README file of the repository or in the ProjectSettings folder.
 Download and install Unity Hub from the Unity website.
-
-
-## Install Git:
-
-If you haven't already, install Git. You can download it from Git's official website.
-## Clone the Repository:
-
-Open a terminal (Command Prompt, PowerShell, or Git Bash).
-Navigate to the directory where you want to clone the repository.
-Use the git clone command followed by the repository URL. 
-# For example:
-git clone https://github.com/ThecodinggirlDenise/Survival-Game-Unity 
-
-## Install Unity:
-
-Ensure you have Unity installed. It's best to use the same version of Unity that the project was created with.
-Download and install Unity Hub from the Unity website.
-
 ## Open the Project in Unity:
 
 Open Unity Hub.
 Click on the "Add" button and browse to the directory where you cloned the repository.
 Select the folder containing the Unity project (it should have an Assets folder, ProjectSettings, etc.).
-
 ## Resolve Dependencies:
 
 Open the project in Unity. Unity will automatically resolve dependencies and import assets.
 If the project uses specific packages, Unity may prompt you to install them via the Package Manager. Follow any prompts to install necessary packages.
-
 ## Build the Game:
 
 Once the project is fully loaded, go to File > Build Settings.
 Select your target platform (e.g., Windows, macOS, etc.).
 Click on “Build” and choose a directory to save the built game.
 Unity will compile the project and create an executable in the specified directory.
-## Run the Game:
-
-After the build process is complete, navigate to the build directory.
-Locate and run the game executable.
-
 ## Run the Game:
 
 After the build process is complete, navigate to the build directory.
