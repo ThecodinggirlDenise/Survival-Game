@@ -42,7 +42,7 @@ If you haven't already, install Git. You can download it from Git's official web
 Navigate to the directory where you want to clone the repository.
 Use the git clone command followed by the repository URL. For example:
 bash
-# git clone[ https://github.com/username/repository.git](https://github.com/ThecodinggirlDenise/Survival-Game-Unity)
+## git clone[ https://github.com/username/repository.git](https://github.com/ThecodinggirlDenise/Survival-Game-Unity)
 ##  Install Unity:
 
 Ensure you have Unity installed. It's best to use the same version of Unity that the project was created with. This information is often found in the README file of the repository or in the ProjectSettings folder.
